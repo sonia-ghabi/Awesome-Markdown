@@ -2,7 +2,7 @@ import React from 'react';
 
 class Editor extends React.Component {
 	render() {
-		return <div>Hello</div>
+		return <textarea className="editor">Edit</textarea>
 	}
 }
 

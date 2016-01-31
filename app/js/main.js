@@ -1,4 +1,5 @@
 import React from 'react';
-import Editor from './components/Editor.jsx';
 
-React.render(<Editor />, document.getElementById('editor'));
+import App from './components/App.jsx';
+
+React.render(<App />, document.getElementById('app'));
